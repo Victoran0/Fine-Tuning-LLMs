@@ -1,4 +1,5 @@
 results
 .env
 wandb
-llama-3.2-3b-it-Ecommerce-ChatBot
+llama-3.2-1b-it-Ecommerce-ChatBot
+llama-3.2-1b-Ecommerce-customer_support
